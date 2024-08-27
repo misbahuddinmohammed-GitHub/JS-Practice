@@ -53,3 +53,8 @@ const obj5 = {
   },
 };
 obj5.x();
+
+// The value of "this" keyword inside DOM is also different, please see the example in index.html file here in the JS PRACTICE folder.
+// The value of "this" keyword in classes, constructors in JavaScript is also different, this is not explained here in the
+// Namaste JavaScript Course,
+// **The OOPs concept of JavaScript is also not covered in this Namaste JavaScript series.**
